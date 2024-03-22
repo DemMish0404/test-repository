@@ -11,3 +11,5 @@ title.after('what? after?')// после элемента
 
 
 console.log('я сделал! ')
+console.log('я сделал! ')
+console.log('я сделал! ')
